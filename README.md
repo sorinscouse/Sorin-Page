@@ -36,4 +36,4 @@ http://fancyapps.com/fancybox/3/
 * **Bootstrap navigation menu:** <br> 
 https://getbootstrap.com/docs/4.0/components/navbar/
 
-**The project is fully responsive
+**The project is fully responsive**
