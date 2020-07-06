@@ -5,7 +5,7 @@ This is my **portfolio** project, it was built with the following **tools** and 
 
 * **HTML, CSS and jQuery:** https://www.w3schools.com/jquery/jquery_get_started.asp
 
-Bootstrap: https://getbootstrap.com/docs/4.5/getting-started/download/
+* **Bootstrap:** https://getbootstrap.com/docs/4.5/getting-started/download/
 
 Superslides:
 https://github.com/nicinabox/superslides
