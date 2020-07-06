@@ -1,9 +1,9 @@
 # Sorin-Page
 https://sorinscouse.github.io/Sorin-Page/
 
-* This is my **portfolio** project, it was built with the following **tools** and **libraries:**
+This is my **portfolio** project, it was built with the following **tools** and **libraries:**
 
-**HTML, CSS and jQuery:** https://www.w3schools.com/jquery/jquery_get_started.asp
+* **HTML, CSS and jQuery:** https://www.w3schools.com/jquery/jquery_get_started.asp
 
 Bootstrap: https://getbootstrap.com/docs/4.5/getting-started/download/
 
