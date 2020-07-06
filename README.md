@@ -6,32 +6,34 @@ This is my **portfolio** project, it was built with the following **tools** and 
 * **HTML, CSS and jQuery:** <br> 
 https://www.w3schools.com/jquery/jquery_get_started.asp
 
-* **Bootstrap:** 
+* **Bootstrap:** <br> 
 https://getbootstrap.com/docs/4.5/getting-started/download/
 
-* **Superslides:**
+* **Superslides:** <br> 
 https://github.com/nicinabox/superslides
 
-* **Icons:**
+* **Icons:** <br> 
 https://icons8.com/
 
-Typed.js:
+* **Typed.js:** <br> 
 https://github.com/mattboldt/typed.js/
 
-Color palettes
+* **Color palettes:** <br> 
 https://flatuicolors.com/
 
-Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider:
+* **Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider:** <br> 
 https://owlcarousel2.github.io/OwlCarousel2/
 
-Easy-pie-chart, a lightweight plugin to render simple, animated and retina optimized pie charts:
+* **Easy-pie-chart, a lightweight plugin to render simple, animated and retina optimized pie charts:** <br> 
 https://github.com/rendro/easy-pie-chart
 
-Isotope plugin:
+* **Isotope plugin:** <br> 
 https://isotope.metafizzy.co/
 
-Fancybox plugin
+* **Fancybox plugin:** <br> 
 http://fancyapps.com/fancybox/3/
 
-Bootstrap navigation menu:
+* **Bootstrap navigation menu:** <br> 
 https://getbootstrap.com/docs/4.0/components/navbar/
+
+**The project is fully responsive
